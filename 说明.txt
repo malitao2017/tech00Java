@@ -1,0 +1,22 @@
+
+第一、静态变量的应用
+包：j1static
+
+第二、文件的相关操作
+包：j2file
+
+第三、微信的红包算法
+包：j3weixin
+
+第四、断言的用法
+包：j4assert
+参考： http://lavasoft.blog.51cto.com/62575/43735/
+
+第五、Collections的相关类
+包： j5Collections
+参考： http://blog.csdn.net/lskyne/article/details/8961014
+
+
+
+
+
