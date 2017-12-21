@@ -18,6 +18,9 @@ https://github.com/malitao2017/tech01JVM
 包： j5Collections
 参考： http://blog.csdn.net/lskyne/article/details/8961014
 
+第11：枚举类的动态添加
+主要是应用反射原理来实现
+参考：http://www.importnew.com/19549.html
 
 
 
